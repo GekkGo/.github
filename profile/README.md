@@ -8,7 +8,7 @@ The app is an Android prototype today, with Android Auto support for cars with a
 
 **Who**
 
-Brian Jose and Fuzzy.
+Brian Jose and Faseeh.
 
 **Status**
 
